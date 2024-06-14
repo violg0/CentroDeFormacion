@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\shared\\modificarcurso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\shared\\modificarcurso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\controlador\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\controlador\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\home\\cursos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\home\\cursos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\home\\identificacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\home\\identificacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\model\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\model\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\model\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\model\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|c:\\users\\acer\\source\\repos\\centrodeformacion\\centrodeformacion\\centrodeformacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D12962B-B443-4E81-A0BD-24F80E800A59}|CentroDeFormacion\\CentroDeFormacion.csproj|solutionrelative:centrodeformacion\\centrodeformacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T05:00:10.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\index.cshtml.cs",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\index.cshtml.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\index.cshtml.cs",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:06:05.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cursos.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Home\\cursos.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\Home\\cursos.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Home\\cursos.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\Home\\cursos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T04:55:07.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T04:46:01.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Controlador\\HomeController.cs",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Controlador\\HomeController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Controlador\\HomeController.cs",
+              "RelativeToolTip": "CentroDeFormacion\\Controlador\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:16:51.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\configuracion.cs",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\configuracion.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\configuracion.cs",
+              "RelativeToolTip": "CentroDeFormacion\\configuracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:01:39.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModificarCurso.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Shared\\ModificarCurso.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\Shared\\ModificarCurso.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Shared\\ModificarCurso.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\Shared\\ModificarCurso.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T11:47:12.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T04:59:53.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T04:47:28.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "identificacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Home\\identificacion.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\Home\\identificacion.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Home\\identificacion.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\Home\\identificacion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T12:19:54.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T13:03:56.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\Error.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T13:03:47.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Model\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Model\\Estudiantes.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Model\\Estudiantes.cs",
+              "RelativeToolTip": "CentroDeFormacion\\Model\\Estudiantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:19:57.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cursos.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Model\\Cursos.cs",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Model\\Cursos.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Model\\Cursos.cs",
+              "RelativeToolTip": "CentroDeFormacion\\Model\\Cursos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:20:38.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Program.cs",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Program.cs",
+              "RelativeToolTip": "CentroDeFormacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:20:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CentroDeFormacion\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T05:04:28.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CentroDeFormacion.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\CentroDeFormacion.csproj",
+              "RelativeDocumentMoniker": "CentroDeFormacion\\CentroDeFormacion.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CentroDeFormacion\\CentroDeFormacion\\CentroDeFormacion.csproj",
+              "RelativeToolTip": "CentroDeFormacion\\CentroDeFormacion.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T22:19:12.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

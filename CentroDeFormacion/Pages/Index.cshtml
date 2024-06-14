@@ -1,0 +1,29 @@
+﻿@page
+@model CentroDeFormacion.Pages.IndexModel
+@{
+    ViewData["Title"] = "Lista de Cursos";
+}
+
+<h1>Lista de Cursos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Nombre</th>
+            <th>Valor</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var curso in Model.Cursos)
+        {
+            <tr>
+                <td>@curso.codigo_curso</td>
+                <td>@curso.nombre_curso</td>
+                <td>@curso.valor_curso</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("ModificarCurso", "Home")" class="boton">Modificar Curso</a>
